@@ -26,7 +26,7 @@ app.post('/document', (req, res) => {
     return res.status(404).json({ error: `No document found for accountId: ${accountId}` });
   }
 
-  const filePath = path.join(__dirname, 'pdfs', fileName);
+  const filePath = path.join(__dirname, fileName);
 
   if (!fs.existsSync(filePath)) {
     return res.status(500).json({ error: 'Document file not found on server.' });
