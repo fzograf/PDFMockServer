@@ -10,7 +10,7 @@ Returns a PDF file for the given account ID.
 **Request Body:**
 ```json
 {
-  "accountId": "ACC001"
+  "accountId": "001"
 }
 ```
 
@@ -21,8 +21,8 @@ Returns a PDF file for the given account ID.
 **Available Account IDs:**
 | Account ID | Document |
 |------------|----------|
-| ACC001 | account_statement.pdf |
-| ACC002 | account_summary.pdf |
+| 001 | account_statement.pdf |
+| 002 | account_summary.pdf |
 
 **Error Responses:**
 - `400` — missing accountId
