@@ -1,0 +1,130 @@
+openapi: 3.0.0
+info:
+  title: Mock PDF Server API
+  description: A simple Express mock server that returns PDF binary files based on an account ID
+  version: 1.0.0
+  contact:
+    name: PDFMockServer
+    url: https://github.com/fzograf/PDFMockServer
+servers:
+  - url: http://localhost:3000
+    description: Local development server
+  - url: https://api.example.com
+    description: Production server
+
+paths:
+  /document:
+    post:
+      summary: Get a PDF document for a specific account
+      description: Returns a PDF file based on the provided account ID
+      operationId: getDocument
+      requestBody:
+        description: Account ID to retrieve document for
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                accountId:
+                  type: string
+                  description: The account ID to retrieve the document for
+                  example: "001"
+              required:
+                - accountId
+      responses:
+        '200':
+          description: Successfully retrieved PDF document
+          content:
+            application/pdf:
+              schema:
+                type: string
+                format: binary
+          headers:
+            Content-Disposition:
+              schema:
+                type: string
+                example: 'inline; filename="account_statement.pdf"'
+            Content-Length:
+              schema:
+                type: integer
+                example: 2416
+        '400':
+          description: Bad request - missing or invalid accountId
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    example: "accountId is required in the request body."
+        '404':
+          description: Not found - accountId does not exist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    example: "No document found for accountId: 999"
+        '500':
+          description: Internal server error - document file not found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
+                    example: "Document file not found on server."
+
+  /health:
+    get:
+      summary: Health check endpoint
+      description: Returns the status of the server - useful for load balancer health checks
+      operationId: healthCheck
+      responses:
+        '200':
+          description: Server is healthy
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: "ok"
+
+components:
+  schemas:
+    DocumentRequest:
+      type: object
+      properties:
+        accountId:
+          type: string
+          description: Account ID to retrieve document
+          example: "001"
+      required:
+        - accountId
+    
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+          description: Error message
+    
+    HealthResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: "ok"
+
+tags:
+  - name: Documents
+    description: Document retrieval operations
+  - name: Health
+    description: Server health checks
