@@ -156,10 +156,10 @@
     "LOG_NO": "niz6r8paqb",
     "PARAMETER": "3ur23"
   },
-  "E_ABP_ENROLLMENT": "g",
+  "E_ABP_ENROLLMENT": "T",
   "E_EL_DEL_PERCENTAGE": "47.45",
   "E_GS_SUP_PERCENTAGE": "40.98",
-  "E_BANK_ID": "kn28ggzz",
+  "E_BANK_ID": "1234",
   "E_TPS_ELEC_PERCENTAGE": "73.61",
   "E_FLAG3": "i",
   "E_ERCHC": [
@@ -242,7 +242,7 @@
     }
   ],
   "E_LAST_PAYMENT": "110.40",
-  "E_ABP_ENROLLED": "x",
+  "E_ABP_ENROLLED": "T",
   "E_ENERGY_USE": [
     {
       "CONTRACT_ACCOUNT": "vum0xyqueo",
@@ -280,11 +280,11 @@
     "DESP4": "6k6fwwgxnd",
     "DESP1": "21l69z1oph"
   },
-  "E_EPP_FLAG": "5",
+  "E_EPP_FLAG": "F",
   "E_OTHER_CHR_PERCENTAGE": "60.19",
   "E_MEDICAL_CUST": "z",
   "E_DUE_DATE": "2021-06-14",
-  "E_DDFLAG": "1",
+  "E_DDFLAG": "X",
   "E_EL_SUP_PERCENTAGE": "51.77",
   "E_WF_CHR_PERCENTAGE": "55.29",
   "E_BALANCE": "377.48",

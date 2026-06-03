@@ -121,7 +121,7 @@
     "PAYMENT_RECEIVED": "191.11",
     "THRD_PRTY_ELEC": "28.62",
     "EV_CREDIT_CHRGS": "5.12",
-    "TOTAL_BALANCE": "393.81",
+    "TOTAL_BALANCE": "150.00",
     "SEC_DEPST_CHRGS": "42.92",
     "CRNT_PSEG_ELEC": "133.06",
     "OVER_PAYMENT": "29.70",
@@ -159,7 +159,7 @@
   "E_TPS_ELEC_PERCENTAGE": "84.20",
   "E_DAYS_INTO_BILLING_PERIOD": "13",
   "E_FLAG3": "h",
-  "E_SHUT_OFF_IMD_FLAG": "X",
+  "E_SHUT_OFF_IMD_FLAG": "",
   "E_ERCHC": [
     {
       "STATUPD": "p",

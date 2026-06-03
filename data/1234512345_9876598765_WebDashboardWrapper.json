@@ -1,5 +1,5 @@
 {
-  "E_STILL_TO_BE_PAID": "363.97",
+  "E_STILL_TO_BE_PAID": "0.00",
   "E_BILL_URL": "https://example.com/bill/ckqg74kaba.pdf",
   "E_TPS_FLAG": "6",
   "E_GS_DEL_PERCENTAGE": "91.71",
@@ -123,7 +123,7 @@
     "LOG_NO": "443yoa2ffl",
     "PARAMETER": "iciye"
   },
-  "E_ABP_ENROLLMENT": "4",
+  "E_ABP_ENROLLMENT": "F",
   "E_EL_DEL_PERCENTAGE": "21.80",
   "E_GS_SUP_PERCENTAGE": "72.70",
   "E_BANK_ID": "2ptnwz3d",
@@ -224,7 +224,7 @@
     }
   ],
   "E_START_PERIOD": "2020-04-05",
-  "E_PB_FLAG": "i",
+  "E_PB_FLAG": "T",
   "E_REMAINING_DAYS": "23",
   "E_PPR": "s",
   "E_WITH_APPOINTMENT": {
@@ -247,16 +247,16 @@
     "DESP4": "j573sn81cn",
     "DESP1": "82pk5mcx9t"
   },
-  "E_EPP_FLAG": "w",
+  "E_EPP_FLAG": "F",
   "E_OTHER_CHR_PERCENTAGE": "24.75",
   "E_MEDICAL_CUST": "f",
   "E_DUE_DATE": "2022-10-21",
   "E_DDFLAG": "d",
   "E_EL_SUP_PERCENTAGE": "54.58",
   "E_WF_CHR_PERCENTAGE": "46.24",
-  "E_BALANCE": "395.31",
+  "E_BALANCE": "150.00",
   "E_FLAG1": "9",
   "E_EPP": "7",
-  "E_LAST_PAY_DATE": "2024-10-31",
+  "E_LAST_PAY_DATE": "2026-05-15",
   "E_ABP_DDLIMIT_AMNT": "444.32"
 }

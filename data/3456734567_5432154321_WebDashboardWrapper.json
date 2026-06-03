@@ -1,5 +1,5 @@
 {
-  "E_STILL_TO_BE_PAID": "402.40",
+  "E_STILL_TO_BE_PAID": "1500.00",
   "E_BILL_URL": "https://example.com/bill/lrssiau1mv.pdf",
   "E_TPS_FLAG": "Z",
   "E_GS_DEL_PERCENTAGE": "92.90",
@@ -134,7 +134,7 @@
     "LOG_NO": "sc7e4vhthq",
     "PARAMETER": "o6hy4"
   },
-  "E_ABP_ENROLLMENT": "g",
+  "E_ABP_ENROLLMENT": "F",
   "E_EL_DEL_PERCENTAGE": "94.64",
   "E_GS_SUP_PERCENTAGE": "90.66",
   "E_BANK_ID": "1r0eoto8",
@@ -258,16 +258,16 @@
     "DESP4": "xt7pgaly7m",
     "DESP1": "hsmci88j74"
   },
-  "E_EPP_FLAG": "g",
+  "E_EPP_FLAG": "F",
   "E_OTHER_CHR_PERCENTAGE": "73.94",
   "E_MEDICAL_CUST": "y",
   "E_DUE_DATE": "2020-01-26",
   "E_DDFLAG": "g",
   "E_EL_SUP_PERCENTAGE": "92.16",
   "E_WF_CHR_PERCENTAGE": "90.95",
-  "E_BALANCE": "315.51",
+  "E_BALANCE": "1500.00",
   "E_FLAG1": "f",
   "E_EPP": "u",
-  "E_LAST_PAY_DATE": "2020-09-17",
+  "E_LAST_PAY_DATE": "2023-01-01",
   "E_ABP_DDLIMIT_AMNT": "531.99"
 }

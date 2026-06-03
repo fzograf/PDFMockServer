@@ -135,7 +135,7 @@
     "PAYMENT_RECEIVED": "28.59",
     "THRD_PRTY_ELEC": "44.25",
     "EV_CREDIT_CHRGS": "7.32",
-    "TOTAL_BALANCE": "315.74",
+    "TOTAL_BALANCE": "1500.00",
     "SEC_DEPST_CHRGS": "33.97",
     "CRNT_PSEG_ELEC": "46.86",
     "OVER_PAYMENT": "3.03",
@@ -144,7 +144,7 @@
     "RETURN_CHRGS": "5.69",
     "AMT_APPLD_DPST": "4.40",
     "PREVIOUS_BALANCE": "52.06",
-    "LATE_PAY_CHRGS": "9.40",
+    "LATE_PAY_CHRGS": "25.00",
     "CRNT_UNMTR_GAS": "0.61"
   },
   "E_CREDIT_AMT": "23.06",

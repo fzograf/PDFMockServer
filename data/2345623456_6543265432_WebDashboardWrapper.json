@@ -112,7 +112,7 @@
     "LOG_NO": "9lz6cafg0b",
     "PARAMETER": "qbj9b"
   },
-  "E_ABP_ENROLLMENT": "g",
+  "E_ABP_ENROLLMENT": "F",
   "E_EL_DEL_PERCENTAGE": "41.26",
   "E_GS_SUP_PERCENTAGE": "73.08",
   "E_BANK_ID": "y8by5sns",
@@ -236,7 +236,7 @@
     "DESP4": "bfz8kyny8k",
     "DESP1": "lqn8ql5011"
   },
-  "E_EPP_FLAG": "7",
+  "E_EPP_FLAG": "T",
   "E_OTHER_CHR_PERCENTAGE": "38.43",
   "E_MEDICAL_CUST": "r",
   "E_DUE_DATE": "2024-07-27",
@@ -245,7 +245,7 @@
   "E_WF_CHR_PERCENTAGE": "50.74",
   "E_BALANCE": "146.01",
   "E_FLAG1": "e",
-  "E_EPP": "l",
+  "E_EPP": "T",
   "E_LAST_PAY_DATE": "2024-10-04",
   "E_ABP_DDLIMIT_AMNT": "406.85"
 }
