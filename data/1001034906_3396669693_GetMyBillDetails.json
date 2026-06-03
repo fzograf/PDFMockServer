@@ -1,0 +1,349 @@
+{
+  "E_TOTAL_OTHER_CHARGE": "34.34",
+  "E_OTHER_BREAK_UP": {
+    "BETRW": "29.80",
+    "FIELD1": "4lpfl",
+    "TVORG": "vnds",
+    "BLART": "76",
+    "FIELD2": "smdqy",
+    "FIELD4": "yudhy",
+    "HVORG": "yqpl",
+    "CHARGE_NAME": "wuobj6g7im",
+    "FIELD3": "5wvuf"
+  },
+  "E_CURRENT_BILL_FLAG": "X",
+  "E_TPS_FLAG": "g",
+  "E_GS_DEL_PERCENTAGE": "79.97",
+  "E_CONSUMPTION": [
+    {
+      "CRNT_PRD_TOT_USAGE": "462.67",
+      "CRNT_PRD_DAYS": "28",
+      "CRNT_PRD_METER_NUMBER": "dlbm9s84",
+      "INSTALLATION": "dtan4o9inc",
+      "CRNT_PRD_AVG_DAILY_USAGE": "25.30",
+      "CONSUMPTION": [
+        {
+          "NUMBER_OF_DAYS": 28,
+          "MONTHLY_COST": "71.52",
+          "PERIOD_END": 1655662186,
+          "AVG_TEMP": "47.67",
+          "USAGE_OUT": "33.08",
+          "MONTHLY_USAGE": "672.61",
+          "DAILY_USAGE": "39.10",
+          "PERIOD_START": 1672046260,
+          "AVG_DAILY_COST": "7.74",
+          "USAGE_IN": "19.74",
+          "DEMAND": "38.25",
+          "MR_TYPE": "8l"
+        },
+        {
+          "NUMBER_OF_DAYS": 31,
+          "MONTHLY_COST": "95.51",
+          "PERIOD_END": 1673341206,
+          "AVG_TEMP": "61.89",
+          "USAGE_OUT": "31.41",
+          "MONTHLY_USAGE": "320.78",
+          "DAILY_USAGE": "36.12",
+          "PERIOD_START": 1687702993,
+          "AVG_DAILY_COST": "7.67",
+          "USAGE_IN": "10.64",
+          "DEMAND": "40.98",
+          "MR_TYPE": "40"
+        },
+        {
+          "NUMBER_OF_DAYS": 29,
+          "MONTHLY_COST": "66.06",
+          "PERIOD_END": 1622511358,
+          "AVG_TEMP": "80.49",
+          "USAGE_OUT": "43.52",
+          "MONTHLY_USAGE": "1134.62",
+          "DAILY_USAGE": "43.26",
+          "PERIOD_START": 1633326306,
+          "AVG_DAILY_COST": "5.04",
+          "USAGE_IN": "27.12",
+          "DEMAND": "11.25",
+          "MR_TYPE": "ki"
+        },
+        {
+          "NUMBER_OF_DAYS": 30,
+          "MONTHLY_COST": "107.79",
+          "PERIOD_END": 1666373495,
+          "AVG_TEMP": "83.43",
+          "USAGE_OUT": "20.58",
+          "MONTHLY_USAGE": "1107.80",
+          "DAILY_USAGE": "20.23",
+          "PERIOD_START": 1634022495,
+          "AVG_DAILY_COST": "3.81",
+          "USAGE_IN": "38.03",
+          "DEMAND": "29.30",
+          "MR_TYPE": "gg"
+        }
+      ],
+      "CRNT_PRD_ACT_READING_DT": "2020-09-23",
+      "DEVIATION": 13.3,
+      "CRNT_PRD_READING": "1440.06",
+      "PREV_PRD_READING": "1061.01",
+      "DIVISION": "6d5v",
+      "START_DATE": "2023-07-18",
+      "BASE_PERIOD_CTG": "je",
+      "NEXT_METER_READ_DT": "2026-04-07",
+      "CRNT_PRD_AVG_DAILY_COST": "14.19",
+      "CONTRACT_ACCOUNT": "3396669693",
+      "DEVICE": "fcze0hje",
+      "DIFF": 479,
+      "FACTOR": 1.21,
+      "END_DATE": "2025-10-10",
+      "CRNT_PRD_AVG_TMP": "46.05",
+      "CONSUMPTION_EXIST": "X"
+    }
+  ],
+  "E_ALL_BALANCE_CHARGE": {
+    "CRNT_PSEG_GAS": "56.78",
+    "CRNT_UNMTR_ELEC": "35.41",
+    "RECONNECT_CHRGS": "8.03",
+    "NET_MTR_ANNV": "0.15",
+    "EQUAL_PAY_PLAN": "6.80",
+    "THRD_PRTY_GAS": "41.10",
+    "FIELD3": "ts9ke",
+    "WF_CHRG": "1.16",
+    "ENGY_EF_PR_CHRGS": "1.78",
+    "AMT_APD_PSEG": "18.11",
+    "MTR_PRD_CHRG": "1.20",
+    "SHUT_OFF_DUE_AMT": "76.71",
+    "PAYMENT_RECEIVED_TILL_TODAY": "56.95",
+    "CREDITS": "3.28",
+    "ELC_TOT_CHRG": "120.18",
+    "FIELD1": "1nwz2",
+    "INSTAL_CHARGS": "21.93",
+    "SHUT_OFF_DUE_DATE": "2020-04-23",
+    "SHUT_OFF_IMD_AMT": "61.72",
+    "FIELD4": "009ui",
+    "PAYMENT_RECEIVED": "191.11",
+    "THRD_PRTY_ELEC": "28.62",
+    "EV_CREDIT_CHRGS": "5.12",
+    "TOTAL_BALANCE": "150.00",
+    "SEC_DEPST_CHRGS": "42.92",
+    "CRNT_PSEG_ELEC": "133.06",
+    "OVER_PAYMENT": "29.70",
+    "GAS_TOT_CHRG": "49.38",
+    "FIELD2": "vvqsh",
+    "RETURN_CHRGS": "2.65",
+    "AMT_APPLD_DPST": "6.62",
+    "PREVIOUS_BALANCE": "98.23",
+    "LATE_PAY_CHRGS": "2.90",
+    "CRNT_UNMTR_GAS": "3.41"
+  },
+  "E_CREDIT_AMT": "15.35",
+  "E_OTHER_CHR_AMOUNT": "8.46",
+  "E_ELEC_DEL_BREAK_UP": [
+    {
+      "CHARGE_DESCRPTN": "vfinyxrxgo",
+      "USAGE": "256.32",
+      "BILLING_QUANTITY": "434.00",
+      "PRICE_AMOUNT": "0.18",
+      "NET_AMOUNT": "38.51",
+      "DIVISION": "erqe",
+      "MULTIPLIER": "0.63",
+      "CHARGE_NAME": "5enp82wgbw",
+      "LINE_ITEM_TYPE": "pidgj"
+    }
+  ],
+  "E_TOTAL_ELEC_CHARGE": "64.08",
+  "E_WF_CHR_AMOUNT": "3.76",
+  "E_PREV_BILL_END_DT": "2024-06-22",
+  "E_NEXT_BILL_PRD_END_DT": "2021-06-26",
+  "E_EL_DEL_PERCENTAGE": "93.05",
+  "E_OPBEL": "aosn6q68tfn",
+  "E_GS_SUP_PERCENTAGE": "60.34",
+  "E_ERCHC_EXIST": "X",
+  "E_TPS_ELEC_PERCENTAGE": "84.20",
+  "E_DAYS_INTO_BILLING_PERIOD": "13",
+  "E_FLAG3": "h",
+  "E_SHUT_OFF_IMD_FLAG": "",
+  "E_ERCHC": [
+    {
+      "STATUPD": "p",
+      "INTBUDAT": "2022-09-01",
+      "TOBRELEASD": "e",
+      "SIMULATED": "q",
+      "BELNR": "x47lxfvg1we",
+      "INTCPUDT": "2024-03-12",
+      "STATUPD_CANC": "d",
+      "OPBEL": "c119ayqcx1i",
+      "INVOICED": "c",
+      "MANDT": "8p8",
+      "INTOPBEL": "1xon53gsebv",
+      "SPCANC": "s",
+      "LFDNR": "k2m",
+      "CPUDT": "2025-04-27",
+      "BUDAT": "2023-06-20"
+    }
+  ],
+  "E_CRNT_BILL_STRT_DT": "2020-06-22",
+  "E_TOTAL_WF_CHARGE": "1.31",
+  "E_MESSAGE": "kermqveeine",
+  "E_TPS_GAS_PERCENTAGE": "17.79",
+  "E_CRNT_BILL_URL": "https://example.com/bill/rhr01mfu9u.pdf",
+  "E_PREV_BILL_STRT_DT": "2022-04-30",
+  "E_BILL_PERIOD": [
+    {
+      "OPBEL": 685841,
+      "ABRZO": 1642988665,
+      "POSTING_DATE": 1682589342,
+      "TOTAL_AMNT": "66.72",
+      "ABRZU": 1675804712,
+      "PAYMENT_DUE_DATE": 1615294682
+    }
+  ],
+  "E_FLAG2": "3",
+  "E_FLAG4": "0",
+  "E_WF_BREAK_UP": {
+    "FIELD1": "7sfmc",
+    "MATNR": "qiev04tn",
+    "NET_AMOUNT": "49.00",
+    "FIELD4": "kf7zu",
+    "FIELD3": "ycb62",
+    "FIELD5": "ol0d0",
+    "TAX_AMOUNT": "1.28",
+    "ACT_AMOUNT": "39.16",
+    "DESCRIPTION": "oh0chkwr34p",
+    "FIELD2": "xa125",
+    "DISCOUNT": "4.98"
+  },
+  "E_DOWNLOAD_BILL": {
+    "OPBEL": "qg6ws5sk47h",
+    "URL": "https://example.com/download/hmvbnnw36a.pdf",
+    "ABRZO": "2022-10-24",
+    "PRINT_DATE": "2020-07-27",
+    "POSTING_DATE": "2021-08-25",
+    "ABRZU": "2025-11-02",
+    "TOTAL_AMNT": "476.35",
+    "PAYMENT_DUE_DATE": "2022-12-04"
+  },
+  "E_GAS_DEL_BREAK_UP_EXIST": "X",
+  "E_TOTAL_GAS_CHARGE": "107.77",
+  "E_WF_BREAK_UP_EXIST": "X",
+  "E_STATUS": "pr",
+  "E_CRNT_BILL_END_DT": "2021-06-03",
+  "E_PAYMENT_DUE_DATE": "2021-10-31",
+  "E_TOTAL_CHRG": "136.22",
+  "E_RETURN": {
+    "NUMBER": "6ki",
+    "MESSAGE_V2": "v9enzoyrpb",
+    "MESSAGE_V4": "zgoayn5a1n",
+    "SYSTEM": "z175p",
+    "MESSAGE_V1": "pyd3xnffgn",
+    "MESSAGE": "tjaiykayvv",
+    "MESSAGE_V3": "mwtz1d1209",
+    "LOG_MSG_NO": "jl851n",
+    "ROW": "99",
+    "ID": "aeedwysd",
+    "TYPE": "m",
+    "FIELD": "bb6e3",
+    "LOG_NO": "6fdysy8kfi",
+    "PARAMETER": "r36de"
+  },
+  "E_CONSUMPTION_EXIST": "X",
+  "E_AMOUNT": [
+    {
+      "DESC": "0x538776mf",
+      "OPERAND": "cqec",
+      "BETRAG": "86.20",
+      "WAERS": "USD"
+    }
+  ],
+  "E_AMOUNT_EXIST": "X",
+  "E_GAS_DEL_BREAK_UP": [
+    {
+      "CHARGE_DESCRPTN": "fres6thxmbt",
+      "USAGE": 86.1,
+      "BILLING_QUANTITY": "73.47",
+      "NET_AMOUNT": "46.50",
+      "DIVISION": "ays5",
+      "CHARGE_NAME": "m30uyfq6z3",
+      "PRICE_AMOUNT": "0.74",
+      "MULTIPLIER": 1.24,
+      "LINE_ITEM_TYPE": "i8a7q"
+    }
+  ],
+  "E_OTHER_BREAK_UP_EXIST": "X",
+  "E_ABP_STILL_TO_BE_PAID": "28.96",
+  "E_GAS_SUP_BREAK_UP": {
+    "CHARGE_DESCRPTN": "8v7hdwk8dm4",
+    "BILLING_QUANTITY": "92.53",
+    "NET_AMOUNT": "24.98",
+    "DIVISION": "3031",
+    "E_BILL_ENDDATE": "2023-10-04",
+    "CHARGE_NAME": "ccw32qbnpl",
+    "PRICE_AMOUNT": "1.80",
+    "PSEG_UNIT_PRICE": "1.54",
+    "PSEG_PRICE_AMOUNT": "48.83",
+    "LINE_ITEM_TYPE": "ac3wq"
+  },
+  "E_GAS_SUP_BREAK_UP_EXIST": "X",
+  "E_DOWNLOAD_BILL_EXIST": "X",
+  "E_ELEC_DEL_BREAK_UP_EXIST": "X",
+  "E_OPEN_PAYABLE_AMT": {
+    "DISPLAY_FLAG": "X",
+    "AMOUNT": "289.18"
+  },
+  "E_OTHER_CHR_PERCENTAGE": "33.09",
+  "E_ELEC_SUP_BREAK_UP_EXIST": "X",
+  "E_COM_NET_USER_DETAILS": {
+    "E_net_meter_flag": "Y",
+    "E_NET_METERING": [
+      {
+        "ELEC_DIFF_NTOU": "34.41",
+        "ELEC_PERIOD": "2021-07-17",
+        "ELEC_BILL_USAGE_NTOU": "425.21",
+        "ELEC_OUT_USAGE_NTOU": "32.76",
+        "ELEC_IN_USAGE_NTOU": "34.45",
+        "ELEC_CUM_DIFF_NTOU": "4611.02"
+      }
+    ],
+    "E_CUMULATIVE": "1872.42",
+    "E_USAGE_OUT": [
+      {
+        "QUANTITY": "7.49",
+        "CHARGE_DESCRIPT": "ifk4kdc4msh",
+        "CHARGE_NAME": "8bl8c1lih4",
+        "CHARGE_DATE": 1687191277
+      }
+    ],
+    "METER_NUM": "v9cu7lvn",
+    "E_USAGE_IN": [
+      {
+        "QUANTITY": "36.95",
+        "CHARGE_DESCRIPT": "frg32gjb3l6",
+        "CHARGE_NAME": "i3jt1ssp6m",
+        "CHARGE_DATE": 1691569282
+      }
+    ]
+  },
+  "E_SCHEDULED_PAYMENT_DETAILS": {
+    "AMOUNT": "441.82",
+    "BANK_NAME": "2pfr23h913d",
+    "ACCOUNT_NUMBER": "awnsnwhthcn",
+    "DATE": "2022-05-10"
+  },
+  "E_ELEC_SUP_BREAK_UP": [
+    {
+      "CHARGE_DESCRPTN": "nkhr7h202da",
+      "BILLING_QUANTITY": "347.21",
+      "NET_AMOUNT": "81.05",
+      "DIVISION": "96yn",
+      "E_BILL_ENDDATE": "2023-10-15",
+      "CHARGE_NAME": "m2bmjj4frf",
+      "PRICE_AMOUNT": "0.16",
+      "PSEG_UNIT_PRICE": "0.10",
+      "PSEG_PRICE_AMOUNT": "93.09",
+      "LINE_ITEM_TYPE": "i3wpk"
+    }
+  ],
+  "E_EL_SUP_PERCENTAGE": "87.28",
+  "E_WF_CHR_PERCENTAGE": "14.05",
+  "E_PAYMENT_DUE_DAYS": "11",
+  "E_FLAG1": "r",
+  "E_BILL_PERIOD_EXIST": "X",
+  "E_ABP_DDLIMIT_AMNT": "153.10"
+}
