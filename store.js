@@ -5,7 +5,8 @@ const PARTNERS = [
   "1234512345",
   "2345623456",
   "3456734567",
-  "1001034906"
+  "1001034906",
+  "1000287636"
 ];
 
 const ACCOUNTS = [
@@ -14,7 +15,8 @@ const ACCOUNTS = [
   { partner: PARTNERS[1], account: "7654376543" },
   { partner: PARTNERS[1], account: "6543265432" },
   { partner: PARTNERS[2], account: "5432154321" },
-  { partner: PARTNERS[3], account: "3396669693" }
+  { partner: PARTNERS[3], account: "3396669693" },
+  { partner: PARTNERS[4], account: "6511457109" }
 ];
 
 console.log("--- Loading Mock Data for the following accounts ---");
